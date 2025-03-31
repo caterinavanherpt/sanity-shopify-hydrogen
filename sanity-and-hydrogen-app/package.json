@@ -14,12 +14,14 @@
   },
   "prettier": "@shopify/prettier-config",
   "dependencies": {
+    "@portabletext/react": "^3.2.1",
     "@remix-run/react": "^2.15.2",
     "@remix-run/server-runtime": "^2.15.2",
     "@shopify/hydrogen": "2025.1.0",
     "@shopify/remix-oxygen": "^2.0.10",
     "graphql": "^16.6.0",
     "graphql-tag": "^2.12.6",
+    "hydrogen-sanity": "^4.3.3",
     "isbot": "^3.8.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
